@@ -1,0 +1,6 @@
+tqdm
+numpy
+xarray
+scipy
+metpy
+matplotlib
